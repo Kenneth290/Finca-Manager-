@@ -1,7 +1,7 @@
-# 🌾 Mi Finca Pro 🚜
+# 🌾 Finca Manager 🚜
 > Gestión inteligente para fincas modernas.
 
-Mi Finca Pro es una aplicación Android diseñada para administrar de forma eficiente todos los procesos de una finca o granja desde un solo lugar.
+Finca Manager es una aplicación Android diseñada para administrar de forma eficiente todos los procesos de una finca o granja desde un solo lugar.
 
 Permite llevar control completo de animales, producción, finanzas e inventario de manera simple, rápida y profesional.
 
